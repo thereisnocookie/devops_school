@@ -1,1 +1,1 @@
-# devops_school
+# DevOps Autumn School 2021 
